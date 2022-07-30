@@ -6,9 +6,9 @@ name = "pypi"
 [packages]
 djangorestframework = "~=3.13.0"
 django = "~=4.0.0"
+django-cors-headers = "~=3.10.0"
 
 [dev-packages]
 
 [requires]
 python_version = "3.9"
-https://github.com/ghaith96
